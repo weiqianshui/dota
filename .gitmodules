@@ -1,3 +1,6 @@
 [submodule "sf"]
 	path = sf
 	url = git@github.com:weiqianshui/sf.git
+[submodule "am"]
+	path = am
+	url = git@github.com:weiqianshui/am.git
